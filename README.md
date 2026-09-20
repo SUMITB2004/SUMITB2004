@@ -14,10 +14,6 @@ I'm an engineering student focused on Machine Learning and AI. I learn by buildi
 
 ## Projects
 
-### AI-Based Traffic Signal Violation Detection
-A computer vision system that detects vehicles violating traffic signals.
-`Python` `Computer Vision` `Object Detection`
-
 ### Smart Gesture Control Glove
 A wearable that lets you control a computer with hand gestures, using motion and flex sensors with wireless communication.
 `Arduino` `NodeMCU` `MPU6050` `Flex Sensors` `HC-05 Bluetooth`
